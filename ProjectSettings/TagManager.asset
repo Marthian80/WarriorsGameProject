@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - TeamBlue
+  - TeamGreen
+  - TeamRed
+  - TeamYellow
+  - Camera 1
+  - Camera 2
   layers:
   - Default
   - TransparentFX
